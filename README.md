@@ -96,7 +96,7 @@ flutter run
 Built with ❤️ (and a lot of chai) by:
 
 - **Maryam**
-- **FRIEND'S NAME**
+- **Noor Fatima**
 
 *Mobile App Development Course Project*
 
