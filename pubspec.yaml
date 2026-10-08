@@ -1,0 +1,43 @@
+name: splash_screen
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: 1.2.2  # Added http package
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/teddy.png
+    - assets/images/product1.jpeg
+    - assets/images/product2.jpeg
+    - assets/images/product3.jpeg
+    - assets/images/product4.jpeg
+    - assets/images/product5.jpeg
+    - assets/images/product6.jpeg
+    - assets/images/product7.jpeg
+    - assets/images/product8.jpeg
+    - assets/images/product9.jpeg
+    - assets/images/product10.jpeg
+    - assets/images/product11.jpeg
+    - assets/images/product12.jpeg
+    - assets/images/product13.jpeg
+    - assets/images/product14.jpeg
+    - assets/images/product15.jpeg
+    - assets/images/avatar.jpg
